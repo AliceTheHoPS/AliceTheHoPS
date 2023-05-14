@@ -1,0 +1,23 @@
+{
+  "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
+  "explorer.confirmDragAndDrop": false,
+  "[javascript][typescript][javascriptreact][typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 500,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "powermode.shake.enabled": false,
+  "powermode.enabled": true,
+  "powermode.presets": "flames",
+  "powermode.explosions.frequency": 1,
+  "editor.linkedEditing": true,
+  "powermode.explosions.enabled": false,
+  "terminal.integrated.fontFamily": "monospace",
+  "editor.fontFamily": "'FiraCode Nerd Font'",
+  "editor.fontLigatures": true
+}
