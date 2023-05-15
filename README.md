@@ -14,11 +14,11 @@
 ---
 
 ## ⭐ Information about my GitHub account
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/AliceTheHoPS">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alicethehops&theme=react&line_height=40&hide=css" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/AliceTheHoPS">
  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alicethehops&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
